@@ -1,1 +1,1 @@
-The chatbox backend for kiiimfu.me resume (about me!) section.
+The chatbox backend for kiiimfu.me resume (about me!) section. Deployed cohere API.
